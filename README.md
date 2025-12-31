@@ -179,10 +179,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
-
-**JSXHive**
-🔗 GitHub: [https://github.com/JSXHive](https://github.com/JSXHive)
-
----
-
