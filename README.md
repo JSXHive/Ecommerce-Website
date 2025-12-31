@@ -29,43 +29,43 @@ A modern, responsive **E-Commerce Web Application** built with **React** and **V
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/Home1.png)
+![Home Page](Screenshots/Home1.png)
 
 ---
 
 ### 👗 Product Details Page
 
-![Product Details](screenshots/ProductD1.png)
+![Product Details](Screenshots/ProductD1.png)
 
 ---
 
 ### 🛒 Cart Page
 
-![Cart Page](screenshots/Cart.png)
+![Cart Page](Screenshots/Cart.png)
 
 ---
 
 ### 💰 Cart Totals
 
-![Cart Totals](screenshots/Cart2.png)
+![Cart Totals](Screenshots/Cart2.png)
 
 ---
 
 ### 🔐 Login Page
 
-![Login Page](screenshots/Login.png)
+![Login Page](Screenshots/Login.png)
 
 ---
 
 ### 📝 Sign Up Page
 
-![Sign Up Page](screenshots/Signup.png)
+![Sign Up Page](Screenshots/Signup.png)
 
 ---
 
 ### 🧒 Kids Category
 
-![Kids Category](screenshots/Kids.png)
+![Kids Category](Screenshots/Kids1.png)
 
 ---
 
